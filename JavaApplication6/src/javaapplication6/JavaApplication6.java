@@ -6,7 +6,7 @@
 package javaapplication6;
 
 /**
- *
+ *ؤريبلاسيرسيرسيبرسيبر
  * @author HP
  */
 public class JavaApplication6 {
